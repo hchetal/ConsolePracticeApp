@@ -1,7 +1,6 @@
 C:\Himanshu\Source\Code\ConsolePracticeApp\ConsolePracticeApp\bin\Debug\ConsolePracticeApp.exe.config
 C:\Himanshu\Source\Code\ConsolePracticeApp\ConsolePracticeApp\bin\Debug\ConsolePracticeApp.exe
 C:\Himanshu\Source\Code\ConsolePracticeApp\ConsolePracticeApp\bin\Debug\ConsolePracticeApp.pdb
-C:\Himanshu\Source\Code\ConsolePracticeApp\ConsolePracticeApp\obj\Debug\ConsolePracticeApp.csprojAssemblyReference.cache
 C:\Himanshu\Source\Code\ConsolePracticeApp\ConsolePracticeApp\obj\Debug\ConsolePracticeApp.csproj.CoreCompileInputs.cache
 C:\Himanshu\Source\Code\ConsolePracticeApp\ConsolePracticeApp\obj\Debug\ConsolePracticeApp.exe
 C:\Himanshu\Source\Code\ConsolePracticeApp\ConsolePracticeApp\obj\Debug\ConsolePracticeApp.pdb
